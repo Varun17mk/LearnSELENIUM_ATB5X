@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06908e6c-e025-4ef0-ac0c-ce783fc7c01a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ATB5X/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/Selenium03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/Selenium_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/Selenium_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/Selenium_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/Selenium_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/testng_05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ATB5X/SeleniumProject/P1/Selenium06.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fJT26crC3pgbVVoCT99jY4h4WT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Selenium_01.executor": "Debug",
+    "Application.Selenium_04.executor": "Run",
+    "Application.TestCase01.executor": "Run",
+    "Application.lab01.executor": "Debug",
+    "JUnit.AppTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.B:/JAVA CODES/LearnSELENIUM_ATB5X/src/test/java/com/ATB5X/Selenium/testng_05.xml.executor": "Run",
+    "TestNG.B:/JAVA CODES/LearnSELENIUM_ATB5X/testng.xml.executor": "Run",
+    "TestNG.Selenium03.executor": "Run",
+    "TestNG.Selenium06.executor": "Run",
+    "TestNG.Selenium_02.executor": "Run",
+    "TestNG.Selenium_05.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "B:/JAVA CODES/LearnSELENIUM_ATB5X/src/test/java/com/ATB5X/Selenium",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\JAVA CODES\LearnSELENIUM_ATB5X\src\test\java\com\ATB5X\Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Selenium06">
+    <configuration name="Selenium_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ATB5X.Selenium.Selenium_04" />
+      <module name="LearnSELENIUM_ATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ATB5X.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B:/JAVA CODES/LearnSELENIUM_ATB5X/src/test/java/com/ATB5X/Selenium/testng_05.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSELENIUM_ATB5X" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/ATB5X/Selenium/testng_05.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B:/JAVA CODES/LearnSELENIUM_ATB5X/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSELENIUM_ATB5X" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium06" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSELENIUM_ATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ATB5X.SeleniumProject.P1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ATB5X.SeleniumProject.P1" />
+      <option name="MAIN_CLASS_NAME" value="com.ATB5X.SeleniumProject.P1.Selenium06" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_05" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSELENIUM_ATB5X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ATB5X.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ATB5X.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.ATB5X.Selenium.Selenium_05" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Selenium06" />
+        <item itemvalue="TestNG.B:/JAVA CODES/LearnSELENIUM_ATB5X/src/test/java/com/ATB5X/Selenium/testng_05.xml" />
+        <item itemvalue="TestNG.B:/JAVA CODES/LearnSELENIUM_ATB5X/testng.xml" />
+        <item itemvalue="TestNG.Selenium_05" />
+        <item itemvalue="Application.Selenium_04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06908e6c-e025-4ef0-ac0c-ce783fc7c01a" name="Changes" comment="" />
+      <created>1713517972629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713517972629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
